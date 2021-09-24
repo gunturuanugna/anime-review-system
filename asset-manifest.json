@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anime-review-system/static/css/main.7d71fe2b.chunk.css",
+    "main.js": "/anime-review-system/static/js/main.98fcbfde.chunk.js",
+    "main.js.map": "/anime-review-system/static/js/main.98fcbfde.chunk.js.map",
+    "runtime-main.js": "/anime-review-system/static/js/runtime-main.44ecbec5.js",
+    "runtime-main.js.map": "/anime-review-system/static/js/runtime-main.44ecbec5.js.map",
+    "static/js/2.2a645ceb.chunk.js": "/anime-review-system/static/js/2.2a645ceb.chunk.js",
+    "static/js/2.2a645ceb.chunk.js.map": "/anime-review-system/static/js/2.2a645ceb.chunk.js.map",
+    "static/js/3.89ea2d9a.chunk.js": "/anime-review-system/static/js/3.89ea2d9a.chunk.js",
+    "static/js/3.89ea2d9a.chunk.js.map": "/anime-review-system/static/js/3.89ea2d9a.chunk.js.map",
+    "index.html": "/anime-review-system/index.html",
+    "static/css/main.7d71fe2b.chunk.css.map": "/anime-review-system/static/css/main.7d71fe2b.chunk.css.map",
+    "static/js/2.2a645ceb.chunk.js.LICENSE.txt": "/anime-review-system/static/js/2.2a645ceb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44ecbec5.js",
+    "static/js/2.2a645ceb.chunk.js",
+    "static/css/main.7d71fe2b.chunk.css",
+    "static/js/main.98fcbfde.chunk.js"
+  ]
+}
